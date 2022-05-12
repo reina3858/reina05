@@ -69,12 +69,12 @@
 .main_section.thr .main03_wrap .pj_btn:after{animation: move-fast .8s ease-in-out infinite alternate;content:"";display: block;width: 37px;height:35px;background: url(/img/finger.png)no-repeat;background-size: 100%;background-position: center;    position: absolute;bottom: -50px;right: 39%;}
 
 .main_section.thr .main03_wrap .selected_pj ul li .pj-wrap:before{  content: "";display: block;position: absolute; top: 0;left: 0;width: 100%;height: 100%; box-shadow: 0px 0px 10px 0px rgb(39 49 65 / 10%);transition: all .3s;opacity: 0;}
-.main_section.thr .main03_wrap .selected_pj ul li:first-child .pj-wrap:before {background: url(../img/likewise_logo.png)no-repeat;background-position: center;background-size:50%;}
+.main_section.thr .main03_wrap .selected_pj ul li:first-child .pj-wrap:before {background: url(../img/fnfn_logo.png)no-repeat;background-position: center;background-size:35%;}
 .main_section.thr .main03_wrap .selected_pj ul li:nth-child(2) .pj-wrap:before {background: url(../img/asobang_logo.png)no-repeat;background-position: center;background-size:50%;}
-.main_section.thr .main03_wrap .selected_pj ul li:nth-child(3) .pj-wrap:before {background: url(../img/capo_logo.png)no-repeat;background-position: center;background-size:50%;}
+.main_section.thr .main03_wrap .selected_pj ul li:nth-child(3) .pj-wrap:before {background: url(../img/hedn_logo.png)no-repeat;background-position: center;background-size:35%;}
 .main_section.thr .main03_wrap .selected_pj ul li:nth-child(4) .pj-wrap:before {background: url(../img/karymarket_logo.png)no-repeat;background-position: center;background-size:70%;}
-.main_section.thr .main03_wrap .selected_pj ul li:nth-child(5) .pj-wrap:before {background: url(../img/ganamist_logo.png)no-repeat;background-position: center;background-size:50%;}
-.main_section.thr .main03_wrap .selected_pj ul li:last-child .pj-wrap:before {background: url(../img/bravo_logo.png)no-repeat;background-position: center;background-size:60%;}  
+.main_section.thr .main03_wrap .selected_pj ul li:nth-child(5) .pj-wrap:before {background: url(../img/daily_logo.png)no-repeat;background-position: center;background-size:50%;}
+.main_section.thr .main03_wrap .selected_pj ul li:last-child .pj-wrap:before {background: url(../img/cela_logo.png)no-repeat;background-position: center;background-size:40%;}  
 .main_section.thr .main03_wrap .selected_pj ul li .pj-wrap:hover:before{opacity: 1;background-color: #fff;}
 .side_txt{font-size: 22px;color: #ccc;position: absolute;bottom: 11%;left: 92%;transform: rotate(90deg);}
 
@@ -111,14 +111,13 @@
 .my-pjs ul li{float: left;width: 50%;margin: 30px 0 0px;text-align: center;height: 460px;}
 .my-pjs ul li img{width: 100%;}
 .my-pjs ul li .pj-sort{padding: 30px 0;}
-.my-pjs ul li img.pj_logo{width: unset;max-height: 35px;height: 100%;}
-.my-pjs ul li:nth-child(5) img.pj_logo,
-.my-pjs ul li:nth-child(7) img.pj_logo,
-.my-pjs ul li:nth-child(13) img.pj_logo{max-height: 22px;}
-.my-pjs ul li:nth-child(8) img.pj_logo,
-.my-pjs ul li:nth-child(10) img.pj_logo,
-.my-pjs ul li:nth-child(11) img.pj_logo,
-.my-pjs ul li:nth-child(12) img.pj_logo{max-height: 45px;}
+.my-pjs ul li img.pj_logo{width: unset;max-height: 22px;height: 100%;}
+.my-pjs ul li:nth-child(15) img.pj_logo,
+.my-pjs ul li:nth-child(16) img.pj_logo,
+.my-pjs ul li:nth-child(17) img.pj_logo,
+.my-pjs ul li:nth-child(18) img.pj_logo,
+.my-pjs ul li:nth-child(19) img.pj_logo,
+.my-pjs ul li:nth-child(23) img.pj_logo{max-height: 45px;}
 .my-pjs{position: relative;}
 .pj_bg_txt01{top: 17%;left: 40%;font-size: 140px;font-weight: 700;white-space: nowrap;position: absolute;color: #fff;text-shadow: 1px 2px 10px rgb(0 0 0 / 10%);} 
 .pj_bg_txt02{top: 40%;left: -40%;font-size: 160px;font-weight: 700;white-space: nowrap;position: absolute;color: #fff;text-shadow: 1px 2px 10px rgb(0 0 0 / 10%);}
@@ -261,8 +260,7 @@
     .pj_bg_txt02 {top: 13%;left: -80%;font-size: 50px;}
     .my-pjs ul li .pj-sort{padding: 20px 0;}
     .my-pjs ul li img.pj_logo{max-height: 20px;}
-    .my-pjs ul li:nth-child(5) img.pj_logo, .my-pjs ul li:nth-child(7) img.pj_logo, .my-pjs ul li:nth-child(13) img.pj_logo{max-height: 14px;}
-
+   
 
     .pj-gallery{margin: 50px auto 0; }
     .gal-cont .gal_item .gal-txt {position: relative;width: 100%;text-align: center;top: 0 !important;padding: 30px 0;}
