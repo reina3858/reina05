@@ -76,6 +76,7 @@
 .main_section.thr .main03_wrap .selected_pj ul li:nth-child(5) .pj-wrap:before {background: url(../img/daily_logo.png)no-repeat;background-position: center;background-size:50%;}
 .main_section.thr .main03_wrap .selected_pj ul li:last-child .pj-wrap:before {background: url(../img/cela_logo.png)no-repeat;background-position: center;background-size:40%;}  
 .main_section.thr .main03_wrap .selected_pj ul li .pj-wrap:hover:before{opacity: 1;background-color: #fff;}
+.main_section.thr .main03_wrap .selected_pj ul li .pj-wrap > a{position: absolute;width: 100%;height: 100%;}
 .side_txt{font-size: 22px;color: #ccc;position: absolute;bottom: 11%;left: 92%;transform: rotate(90deg);}
 
 
