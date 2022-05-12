@@ -66,7 +66,7 @@
 .main_section.thr .main03_wrap .selected_pj ul li .pj-wrap.bg_up:after{height: 0;}
 .main_section.thr .main03_wrap .pj_btn{position: relative;display: block;width: 200px;height: 60px;line-height: 60px;text-align: center;border: 1px solid #000;margin: 0 auto;transition: all .3s;}
 .main_section.thr .main03_wrap .pj_btn:hover{background-color: #000;color: #fff;}
-.main_section.thr .main03_wrap .pj_btn:after{animation: move-fast .8s ease-in-out infinite alternate;content:"";display: block;width: 37px;height:35px;background: url(/img/finger.png)no-repeat;background-size: 100%;background-position: center;    position: absolute;bottom: -50px;right: 39%;}
+.main_section.thr .main03_wrap .pj_btn:after{animation: move-fast .8s ease-in-out infinite alternate;content:"";display: block;width: 37px;height:35px;background: url(../img/finger.png)no-repeat;background-size: 100%;background-position: center;    position: absolute;bottom: -50px;right: 39%;}
 
 .main_section.thr .main03_wrap .selected_pj ul li .pj-wrap:before{  content: "";display: block;position: absolute; top: 0;left: 0;width: 100%;height: 100%; box-shadow: 0px 0px 10px 0px rgb(39 49 65 / 10%);transition: all .3s;opacity: 0;}
 .main_section.thr .main03_wrap .selected_pj ul li:first-child .pj-wrap:before {background: url(../img/fnfn_logo.png)no-repeat;background-position: center;background-size:35%;}
